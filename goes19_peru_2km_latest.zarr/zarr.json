@@ -2,7 +2,7 @@
   "attributes": {
     "satellite": "GOES19",
     "product": "ABI-L2-CMIPF",
-    "scan_tag_utc": "202611251540",
+    "scan_tag_utc": "202611251640",
     "crs": "EPSG:4326",
     "resolution_km": 2.0
   },
@@ -13,7 +13,7 @@
     "metadata": {
       "ir": {
         "shape": [
-          33,
+          35,
           1278,
           1111
         ],
@@ -159,14 +159,14 @@
       },
       "time": {
         "shape": [
-          33
+          35
         ],
         "data_type": "float64",
         "chunk_grid": {
           "name": "regular",
           "configuration": {
             "chunk_shape": [
-              33
+              35
             ]
           }
         },
@@ -199,7 +199,7 @@
       },
       "wv": {
         "shape": [
-          33,
+          35,
           1278,
           1111
         ],
