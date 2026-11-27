@@ -2,7 +2,7 @@
   "attributes": {
     "satellite": "GOES19",
     "product": "ABI-L2-CMIPF",
-    "scan_tag_utc": "202611271640",
+    "scan_tag_utc": "202611271740",
     "crs": "EPSG:4326",
     "resolution_km": 2.0
   },
